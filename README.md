@@ -1,4 +1,4 @@
-# [Telegram](https://t.me/strikelab)
+# [Telegram](https://t.me/SmokeLoaders)
 
 # XWorm-V5.3 Auth Bypass
 ## ⚙️ Requirements :
@@ -24,4 +24,4 @@
 - Run the XWorm Loader (Special thanks to [ReverseEngineeringLab](https://t.me/reverseengineeringlab) who created the loader for XWorm 5.0-5.2 back then)
 - In the console is going to appear a bin. Copy it and paste it into the Bin field in XWorm
 
-# My [Telegram Group](https://t.me/strikelab)
+# My [Telegram Group](https://t.me/SmokeLoaders)
